@@ -1,4 +1,4 @@
-import { statement } from "./1-1.js";
+import { statement } from "./1-1";
 
 import invoices from "./invoices.json" assert { type: "json" };
 import plays from "./plays.json" assert { type: "json" };
