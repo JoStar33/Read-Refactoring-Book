@@ -27,7 +27,6 @@
  */
 
 /**
- *
  * @param { invoiceElement } invoice
  * @param { playElement } plays
  * @returns
