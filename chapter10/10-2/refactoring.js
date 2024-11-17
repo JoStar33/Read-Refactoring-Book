@@ -14,6 +14,8 @@ function disabilityAmount(anEmployee) {
   }
 }
 
+// 이렇게 if에 중첩으로 들어간 부분을 AND로 묶어서 표현할 수도 있겠다.
+// 이거는 잘 인식하지 못했었는데 앞으로는 꾸준히 해야겠다고 다짐하게 됨.
 function factor() {
   if (anEmployee.onVacation && anEmployee.seniority > 10) {
     return 1;
